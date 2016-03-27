@@ -1,1 +1,1 @@
-# myHungryGolem
+# myHungryGolem/myStupidGolem
